@@ -1,0 +1,48 @@
+
+/*******************body   Lines**********************/
+
+  body {
+    background-color: #FDFDFD;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+/*****************Class*****************************/
+  }
+.header{
+  color: black;
+  text-shadow: 2px 2px 5px grey;
+}
+/*
+/*******************link***************************/
+
+/************************Navigation List******************/
+
+.Navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.style {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+/*******************table***************************/
